@@ -25,6 +25,13 @@ body {
 
 }
 
+.gap {
+  width: 100%;
+  height: 3px;
+  background-color: rgb(21, 153, 87);
+  background-image: linear-gradient(120deg, rgb(21, 87, 153), rgb(21, 153, 87));
+  margin-bottom: 20px;
+}
 
 .page-header {
     color: rgb(255, 255, 255);
